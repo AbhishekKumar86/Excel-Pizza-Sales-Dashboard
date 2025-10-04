@@ -38,5 +38,14 @@ The goal was to identify sales trends, customer preferences, and product perform
 - Top 5 Sellers: Chicken Deluxe, Barbecue Chicken, Hawaiian, Pepperoni, Thai Chicken.
 - Worst 5 Sellers: Brie Carre, Mediterranean, Calabrese, Spinach Supreme, Soppressata.
 
+## Business Recommendations
+
+- Expand into delivery partnerships (Swiggy, Zomato, Uber Eats) for long term growth.
+- Promote Combo deals (Large pizza + Medium pizza + Drinks) for Customer Retention & Upselling.
+- June and September are low demands month so run the discounts.
+- Increase Staff and maintion raw materials during peak hours.
+- Don’t purchase too many raw materials or inventory for items that are not selling well. In this case Brie Carre or Mediterranean not sell much.
+
+
 
 
